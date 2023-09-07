@@ -1,0 +1,90 @@
+[
+    {
+    "id": 78,
+    "player_name": "Kyrie Irving",
+    "age": 30,
+    "games": 40,
+    "games_started": 40,
+    "minutes_played": 1478,
+    "PTS": 1084,
+    "team": "BRK",
+    "season": 2023
+},
+{
+    "id": 79,
+    "player_name": "Kevin Durant",
+    "age": 34,
+    "games": 39,
+    "games_started": 39,
+    "minutes_played": 1403,
+    "PTS": 1158,
+    "team": "BRK",
+    "season": 2023
+},
+{
+    "id": 80,
+    "player_name": "Seth Curry",
+    "age": 32,
+    "games": 61,
+    "games_started": 7,
+    "minutes_played": 1211,
+    "PTS": 561,
+    "team": "BRK",
+    "season": 2023
+},
+{
+    "id": 81,
+    "player_name": "Ben Simmons",
+    "age": 26,
+    "games": 42,
+    "games_started": 33,
+    "minutes_played": 1105,
+    "PTS": 291,
+    "team": "BRK",
+    "season": 2023
+},
+{
+    "id": 82,
+    "player_name": "Cam Thomas",
+    "age": 21,
+    "games": 57,
+    "games_started": 4,
+    "minutes_played": 948,
+    "PTS": 604,
+    "team": "BRK",
+    "season": 2023
+},
+{
+    "id": 83,
+    "player_name": "Yuta Watanabe",
+    "age": 28,
+    "games": 58,
+    "games_started": 1,
+    "minutes_played": 928,
+    "PTS": 322,
+    "team": "BRK",
+    "season": 2023
+},
+{
+    "id": 84,
+    "player_name": "Mikal Bridges",
+    "age": 26,
+    "games": 27,
+    "games_started": 27,
+    "minutes_played": 923,
+    "PTS": 706,
+    "team": "BRK",
+    "season": 2023
+},
+{
+    "id": 85,
+    "player_name": "Spencer Dinwiddie",
+    "age": 29,
+    "games": 26,
+    "games_started": 26,
+    "minutes_played": 917,
+    "PTS": 429,
+    "team": "BRK",
+    "season": 2023
+}
+]
